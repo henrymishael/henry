@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 "use client";
 
 import { AnimatePresence, motion, useInView, Variants } from "framer-motion";
@@ -14,7 +15,7 @@ interface BlurFadeProps {
   delay?: number;
   yOffset?: number;
   inView?: boolean;
-  inViewMargin?: string;
+  inViewMargin?: string | any;
   blur?: string;
 }
 const BlurFade = ({
@@ -40,9 +41,9 @@ const BlurFade = ({
     <AnimatePresence>
       <motion.div
         ref={ref}
-        initial="hidden"
+        initial='hidden'
         animate={isInView ? "visible" : "hidden"}
-        exit="hidden"
+        exit='hidden'
         variants={combinedVariants}
         transition={{
           delay: 0.04 + delay,
