@@ -11,7 +11,7 @@ export const DATA = {
     "Chemist turned Frontend Developer. I love building things and helping people..",
   summary:
     "At the end of 2022, I quit my job as a Logistics Manager to go fulltime into building and scaling software products. In the past, [I pursued a degree in chemistry](/#education), interned at various research institutes in Nigeria, and secured a role as a logistics manager. I also had the pleasure of being a part of the second cohort of the Federal Government of Nigeria Initiative for Technical Talents [3MTT](https://3mtt.nitda.gov.ng).",
-  avatarUrl: "/me.jpg",
+  avatarUrl: "me.jpg",
   skills: [
     "React",
     "Next.js",
@@ -75,7 +75,7 @@ export const DATA = {
       badges: [],
       location: "Ajah, NG",
       title: "Assistant web dev Instructor",
-      logoUrl: "/biro.jfif",
+      logoUrl: "biro.jfif",
       start: "May 2024",
       end: "Present",
       description:
@@ -87,7 +87,7 @@ export const DATA = {
       href: "https://hng.tech",
       location: "Remote",
       title: "Frontend Developer/Ui-UX Developer",
-      logoUrl: "/hng11.png",
+      logoUrl: "hng11.png",
       start: "July 2024",
       end: "August 2024",
       description:
@@ -100,7 +100,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Frontend Developer",
-      logoUrl: "/hngx.jpg",
+      logoUrl: "hngx.jpg",
       start: "Sep 2023",
       end: "Nov 2023",
       description: "",
@@ -111,7 +111,7 @@ export const DATA = {
       badges: [],
       location: "Surulere, LG",
       title: "Logistic Manager",
-      logoUrl: "/unateus.svg",
+      logoUrl: "unateus.svg",
       start: "May 2020",
       end: "December 2022",
       description:
@@ -123,7 +123,7 @@ export const DATA = {
       badges: [],
       location: "Oshodi, LG",
       title: "Research Intern",
-      logoUrl: "/fiiro.jpg",
+      logoUrl: "fiiro.jpg",
       start: "Jan 2016",
       end: "May 2016",
       description:
@@ -135,7 +135,7 @@ export const DATA = {
       school: "3MTT",
       href: "https://3mtt.nitda.gov.ng",
       degree: "in view",
-      logoUrl: "/3mtt.jpg",
+      logoUrl: "3mtt.jpg",
       start: "2023",
       end: "2024",
     },
@@ -143,7 +143,7 @@ export const DATA = {
       school: "Univelcity",
       href: "https://univelcity.com",
       degree: "120 hours of Frontend Development",
-      logoUrl: "/univel.png",
+      logoUrl: "univel.png",
       start: "2023",
       end: "2023",
     },
@@ -151,7 +151,7 @@ export const DATA = {
       school: "The University Of Benin",
       href: "https://www.uniben.edu",
       degree: "Bachelor's Degree of Industrial Chemistry (BSc)",
-      logoUrl: "/uniben.jpg",
+      logoUrl: "uniben.jpg",
       start: "2016",
       end: "2021",
     },
@@ -210,7 +210,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "/ai4home.mp4",
+      video: "ai4home.mp4",
     },
 
     {
@@ -234,7 +234,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "/apple.mp4",
+      video: "apple.mp4",
     },
     {
       title: "Yindira",
@@ -251,7 +251,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "/yindira.mp4",
+      video: "yindira.mp4",
     },
   ],
   hackathons: [
