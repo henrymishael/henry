@@ -208,7 +208,7 @@ export default function Page() {
               <p className='mx-auto max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed'>
                 Want to chat? Just shoot me a dm{" "}
                 <Link
-                  href={DATA.contact.tel}
+                  href={`https://wa.me/${DATA.contact.tel}`}
                   className='text-emerald-500 hover:underline'
                 >
                   with a direct question on whatsapp
