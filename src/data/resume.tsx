@@ -3,7 +3,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
   name: "Mishael Henry",
-  initials: "DV",
+  initials: "MH",
   url: "https://portfolio-2023-nine-theta.vercel.app",
   location: "Lagos, NG",
   locationLink: "https://www.google.com/maps/place/lagos",
