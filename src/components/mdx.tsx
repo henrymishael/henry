@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
+/* eslint-disable prefer-const */
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
