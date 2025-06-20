@@ -201,7 +201,7 @@ export const DATA = {
     },
     {
       title: "Lucred",
-      href: "https://lucred.co",
+      href: "https://www.lucred.co",
       dates: "November 2024 - January 2025",
       active: true,
       description:
