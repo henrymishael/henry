@@ -70,6 +70,30 @@ export const DATA = {
 
   work: [
     {
+      company: "Ekesquare",
+      href: "https://www.ekesquare.com",
+      badges: [],
+      location: "Lagos, NG",
+      title: "Junior Frontend Developer",
+      logoUrl:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKuPw_3anTK-Sp2G-AXZN4XiQGWaqy8TcV_g&s",
+      start: "January 2025",
+      end: "Present",
+      description: "",
+    },
+    {
+      company: "Lucred",
+      href: "https://www.lucred.co",
+      badges: [],
+      location: "Lagos, NG",
+      title: "Junior Frontend Developer",
+      logoUrl: "lucredLogo.webp",
+      start: "November 2024",
+      end: "January 2025",
+      description:
+        "Developed and maintained the company's website, increasing user engagement by 30%. Collaborated with the design team to implement new features and improve user experience. Conducted code reviews and provided feedback to improve code quality.",
+    },
+    {
       company: "BirotoJob",
       href: "https://atomic.finance",
       badges: [],
@@ -77,7 +101,7 @@ export const DATA = {
       title: "Assistant web dev Instructor",
       logoUrl: "biro.jfif",
       start: "May 2024",
-      end: "Present",
+      end: "November 2024",
       description:
         "Delivered structured training on HTML5 and CSS3, tailored for beginners, boosting engagement through hands-on projects, live coding sessions, and personalized mentorship. Evaluated student progress with practical challenges and continuously updated curriculum to reflect industry trends.",
     },
@@ -134,7 +158,7 @@ export const DATA = {
     {
       school: "3MTT",
       href: "https://3mtt.nitda.gov.ng",
-      degree: "in view",
+      degree: "completed 12 months of training in Software Development",
       logoUrl: "3mtt.jpg",
       start: "2023",
       end: "2024",
@@ -158,40 +182,30 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "BookIt",
-      href: "https://book-it-neon.vercel.app",
-      dates: "September 2024 - October 2024",
+      title: "Dava",
+      href: "https://dava-water.vercel.app",
+      dates: "January 2025 - February 2025",
       active: true,
-      description: "Designed, developed and built using Appwrite.",
-      technologies: [
-        "Next.js",
-        "Typescript",
-        "Appwrite",
-        "TailwindCSS",
-        "Shadcn UI",
-      ],
+      description:
+        "It’s not just a can, it’s a lifestyle… We embody Drink Responsibly! and protect the Environment..\n Designed, developed and built using NextJS.",
+      technologies: ["Next.js", "Typescript", "TailwindCSS", "Shadcn UI"],
       links: [
         {
           type: "Website",
-          href: "https://book-it-neon.vercel.app",
+          href: "https://dava-water.vercel.app",
           icon: <Icons.globe className='size-3' />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/henrymishael/BookIt",
-          icon: <Icons.github className='size-3' />,
         },
       ],
       image: "",
-      video: "https://cdn.magicui.design/bento-grid.mp4",
+      video: "dava.mp4",
     },
     {
-      title: "AiForHomework",
-      href: "https://aiforhomework.com",
-      dates: "July 2024 - August 2024",
+      title: "Lucred",
+      href: "https://lucred.co",
+      dates: "November 2024 - January 2025",
       active: true,
       description:
-        "AI For Homework makes getting homework help simple. Our AI-powered platform offers quick and personalized artificial intelligence homework help for students. Whether you're stuck or just need a push, our AI is here to help you with your homework in no time.",
+        "Experience a seamless online platform designed with your convenience in mind. No lengthy paperwork or time-consuming processes. Just a few simple steps, and you'll have access to funds that open doors to over a thousand merchants.",
       technologies: [
         "Next.js",
         "Typescript",
@@ -205,12 +219,12 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://aiforhomework.com",
+          href: "https://lucred.co",
           icon: <Icons.globe className='size-3' />,
         },
       ],
       image: "",
-      video: "ai4home.mp4",
+      video: "lucred.mp4",
     },
 
     {

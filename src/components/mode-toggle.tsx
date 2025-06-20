@@ -1,8 +1,11 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 "use client";
 
 import { Button } from "@/components/ui/button";
 import { MoonIcon, SunIcon } from "@radix-ui/react-icons";
+
 import { useTheme } from "next-themes";
+import React from "react";
 
 export function ModeToggle() {
   const { theme, setTheme } = useTheme();
