@@ -182,22 +182,22 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "Dava",
-      href: "https://dava-water.vercel.app",
+      title: "Ekesquare",
+      href: "https://www.ekesquare.com",
       dates: "January 2025 - February 2025",
       active: true,
       description:
-        "It’s not just a can, it’s a lifestyle… We embody Drink Responsibly! and protect the Environment..\n Designed, developed and built using NextJS.",
+        "Dive into a world of endless possibilities as you browse through our diverse collection of products across familiar traditional markets within and outside your location. From the latest fashion trends to cutting-edge gadgets, find everything you need in one place.",
       technologies: ["Next.js", "Typescript", "TailwindCSS", "Shadcn UI"],
       links: [
         {
           type: "Website",
-          href: "https://dava-water.vercel.app",
+          href: "https://www.ekesquare.com",
           icon: <Icons.globe className='size-3' />,
         },
       ],
       image: "",
-      video: "dava.mp4",
+      video: "eke.mp4",
     },
     {
       title: "Lucred",
