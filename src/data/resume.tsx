@@ -219,7 +219,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://lucred.co",
+          href: "https://www.lucred.co",
           icon: <Icons.globe className='size-3' />,
         },
       ],
